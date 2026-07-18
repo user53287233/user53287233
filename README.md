@@ -13,13 +13,13 @@ Atualmente focado em aprender os fundamentos de programação com Python e explo
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
+  <
 </p>
 
 **Áreas de Interesse:**
 * 🐍 Automação de tarefas e scripts com Python
 * 🛡️ Fundamentos de Redes e Segurança Ofensiva/Defensiva
-* 💻 Ambientes CLI (Linux/Bash)
+* 💻 Ambientes CLI (Linux)
 
 ---
 
