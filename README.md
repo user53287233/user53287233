@@ -31,11 +31,3 @@ Atualmente focado em aprender os fundamentos de programação com Python e explo
 
 ---
 
-### 🤝 Vamos nos conectar?
-
-Se quiser trocar ideias sobre Python, Cybersecurity ou tecnologia em geral, sinta-se à vontade para entrar em contato!
-
-<p align="left">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</p>
