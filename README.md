@@ -1,4 +1,4 @@
-# Olá, eu sou o [yuri] 👋
+# Olá, eu sou o yuri 👋
 
 ### 🚀 Desenvolvedor Python & Entusiasta de Cybersecurity
 
